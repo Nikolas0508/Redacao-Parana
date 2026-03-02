@@ -1,4 +1,4 @@
-DECLARAÇÃO DE DIREITOS AUTORAIS
+# DECLARAÇÃO DE DIREITOS AUTORAIS
 
 Eu, Nikolas Vitor, declaro para os devidos fins que o script denominado “Redação Paraná” é de minha autoria, sendo protegido pela Lei de Direitos Autorais (Lei nº 9.610/98).
 
