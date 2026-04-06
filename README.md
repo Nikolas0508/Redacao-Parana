@@ -1,16 +1,33 @@
-# DECLARAÇÃO DE DIREITOS AUTORAIS
+# Redação Nikolas
 
-Eu, Mr001, declaro para os devidos fins que o script denominado “Redação Paraná” é de minha autoria, sendo protegido pela Lei de Direitos Autorais (Lei nº 9.610/98).
+Ferramenta criada para a plataforma Redação Paraná, com o objetivo de facilitar a escrita, revisão e navegação.
 
-Fica expressamente proibida a cópia, reprodução, modificação, distribuição ou qualquer forma de utilização total ou parcial do referido script sem autorização prévia e por escrito do autor.
+## 📌 Sobre
 
-O uso indevido da obra poderá resultar na adoção das medidas legais cabíveis.
+O Redação Nikolas é um bookmarklet que executa scripts diretamente no navegador, aplicando melhorias na página da plataforma Redação Paraná.
 
-Todos os direitos reservados.
+## ⚙️ Como usar
 
-Curitiba, 02 de março de 2026.
+1. Salve o bookmarklet nos favoritos
+2. Acesse a plataforma Redação Paraná
+3. Clique no bookmarklet
+4. As funcionalidades serão ativadas automaticamente
 
-Mr001
+## 🚀 Funcionalidades
 
+* Suporte à escrita
+* Melhorias de interface
+* Automatização de tarefas
 
-Credit: mzzvm
+## 🧩 Tecnologias
+
+* JavaScript
+* Manipulação do DOM
+
+## ⚠️ Aviso
+
+Projeto não oficial, sem vínculo com a plataforma Redação Paraná.
+
+## 📄 Licença
+
+NikolasP
